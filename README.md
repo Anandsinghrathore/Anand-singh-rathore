@@ -16,8 +16,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, JavaScript  
-- **Web:** HTML, CSS  
+- **Languages:** C, C++, Python  
+- **Web:** HTML, CSS  , javascript
 - **Tools:** Git, GitHub, VS Code
 
 ---
@@ -29,20 +29,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: anandsinghrathore648@gmail.com  
-- 💼 LinkedIn: (add later)  
-- 🧠 LeetCode: (add later)
+- 💼 LinkedIn: (www.linkedin.com/in/anand-singh-rathore-880277318)  
+- 🧠 LeetCode: (https://leetcode.com/profile/account/)
 
 ---
 
