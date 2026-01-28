@@ -31,8 +31,8 @@
 
 ## 📫 Connect With Me
 - 📧 Email: anandsinghrathore648@gmail.com  
-- 💼 LinkedIn: (www.linkedin.com/in/anand-singh-rathore-880277318)  
-- 🧠 LeetCode: (https://leetcode.com/profile/account/)
+- 💼 LinkedIn: www.linkedin.com/in/anand-singh-rathore-880277318
+- 🧠 LeetCode: https://leetcode.com/profile/account/
 
 ---
 
